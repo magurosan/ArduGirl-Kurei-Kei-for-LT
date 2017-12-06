@@ -1,4 +1,4 @@
-# Arduboy用LTタイマー兼LTキーボード（プロ生版）
+# ArduGirl Kurei Kei for LT
 プロ生#50で紹介させていただいた、Arduboy LTタイマー兼LTキーボードです。
 
 ## 使い方
