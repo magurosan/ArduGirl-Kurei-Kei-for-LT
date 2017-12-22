@@ -17,12 +17,14 @@
 * Arduino IDEのインストールされたPC(Windows, Mac, Linuxなど)
 
 ### 2. 環境設定
-Arduino IDEのライブラリマネージャより、Arduboy2のライ
-ブラリを取得します。
+
+Arduino IDEを起動し、ライブラリマネージャより、Arduboy2のライブラリを取得しておきます。
+依存関係のあるライブラリが取得できます。
 
 ### 3. コンパイルおよび転送
+
 Arduboy本体の電源スイッチをONにし、USBケーブルでPCに接続します。
-[ツール]- > [ボード] の設定を「Arduino Leonardo」にしてください。
+Arduino IDEの[ツール]- > [ボード] の設定を「Arduino Leonardo」にしてください。
 
 ファイル Arduboy-LT-timer.ino を開き、「マイコンボードに書き込む」を押すと、ビルドおよび書き込みが開始されます。
 
